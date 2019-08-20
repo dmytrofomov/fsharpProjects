@@ -1,0 +1,13 @@
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.deps.json
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.runtimeconfig.json
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.runtimeconfig.dev.json
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.dll
+C:\Users\z400w10\Exercism\fsharp\bob\bin\Debug\netcoreapp2.1\Bob.pdb
+C:\Users\z400w10\Exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.fsprojAssemblyReference.cache
+C:\Users\z400w10\Exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.AssemblyInfoInputs.cache
+C:\Users\z400w10\Exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.AssemblyInfo.fs
+C:\Users\z400w10\Exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.dll
+C:\Users\z400w10\Exercism\fsharp\bob\obj\Debug\netcoreapp2.1\Bob.pdb

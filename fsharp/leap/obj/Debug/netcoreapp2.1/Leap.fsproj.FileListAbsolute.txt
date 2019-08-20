@@ -1,0 +1,13 @@
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.deps.json
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.json
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.dev.json
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.dll
+C:\Users\z400w10\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.pdb
+C:\Users\z400w10\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.fsprojAssemblyReference.cache
+C:\Users\z400w10\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.AssemblyInfoInputs.cache
+C:\Users\z400w10\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.AssemblyInfo.fs
+C:\Users\z400w10\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.dll
+C:\Users\z400w10\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.pdb
