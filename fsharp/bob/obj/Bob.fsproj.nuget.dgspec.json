@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\z400w10\\Desktop\\FiddlerCore for .NET Standard Beta\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
