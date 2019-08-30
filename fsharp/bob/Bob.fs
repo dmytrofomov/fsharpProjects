@@ -2,7 +2,7 @@
 open System
 
 let checkYell (input: string) = 
-         (input.ToCharArray() |> Array.toList |> List.filter(Char.IsLetter) |> Seq.length > 1) && input.ToUpper() = input
+         input |>  Seq.exists(Char.IsLetter) && input.ToUpper() = input
 
 let checkQuestion (input: string) = input.EndsWith("?")
 
