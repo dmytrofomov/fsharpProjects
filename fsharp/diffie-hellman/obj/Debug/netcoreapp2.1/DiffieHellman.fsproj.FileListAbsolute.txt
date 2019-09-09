@@ -1,0 +1,13 @@
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\obj\Debug\netcoreapp2.1\DiffieHellman.fsprojAssemblyReference.cache
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\obj\Debug\netcoreapp2.1\DiffieHellman.AssemblyInfoInputs.cache
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\obj\Debug\netcoreapp2.1\DiffieHellman.AssemblyInfo.fs
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\DiffieHellman.deps.json
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\DiffieHellman.runtimeconfig.json
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\DiffieHellman.runtimeconfig.dev.json
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\DiffieHellman.dll
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\bin\Debug\netcoreapp2.1\DiffieHellman.pdb
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\obj\Debug\netcoreapp2.1\DiffieHellman.dll
+C:\Users\z400w10\Exercism\fsharp\diffie-hellman\obj\Debug\netcoreapp2.1\DiffieHellman.pdb
