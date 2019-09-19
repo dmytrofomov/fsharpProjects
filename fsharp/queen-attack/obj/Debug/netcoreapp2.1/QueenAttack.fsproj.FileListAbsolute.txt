@@ -1,0 +1,13 @@
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\QueenAttack.deps.json
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\QueenAttack.runtimeconfig.json
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\QueenAttack.runtimeconfig.dev.json
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\QueenAttack.dll
+C:\Users\z400w10\Exercism\fsharp\queen-attack\bin\Debug\netcoreapp2.1\QueenAttack.pdb
+C:\Users\z400w10\Exercism\fsharp\queen-attack\obj\Debug\netcoreapp2.1\QueenAttack.fsprojAssemblyReference.cache
+C:\Users\z400w10\Exercism\fsharp\queen-attack\obj\Debug\netcoreapp2.1\QueenAttack.AssemblyInfoInputs.cache
+C:\Users\z400w10\Exercism\fsharp\queen-attack\obj\Debug\netcoreapp2.1\QueenAttack.AssemblyInfo.fs
+C:\Users\z400w10\Exercism\fsharp\queen-attack\obj\Debug\netcoreapp2.1\QueenAttack.dll
+C:\Users\z400w10\Exercism\fsharp\queen-attack\obj\Debug\netcoreapp2.1\QueenAttack.pdb
