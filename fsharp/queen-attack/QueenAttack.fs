@@ -1,10 +1,9 @@
 ﻿module QueenAttack
 
-let create (position: int * int) = 
+let create (first, second) = 
         let checkCell x = x > 0 && x < 8
-        checkCell (fst position) && checkCell (snd position)
+        checkCell first && checkCell second
 
-let canAttack (queen1: int * int) (queen2: int * int) = 
-        let getAbs t1 t2 = (abs (fst t1 - fst t2 ), abs (snd t1 - snd t2 ))
-        let possitionResult = getAbs queen1 queen2
-        fst queen1 = fst queen2 || snd queen1 = snd queen2 || fst possitionResult = snd possitionResult 
+let canAttack (row1, column1) (row2, column2) = 
+        let checkAbsDistanse = abs (row1 - row2) = abs (column1 - column2 )
+        row1 = row2 || column1 = column2 || checkAbsDistanse
