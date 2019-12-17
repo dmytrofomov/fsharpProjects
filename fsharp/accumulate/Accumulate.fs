@@ -1,10 +1,11 @@
 ﻿module Accumulate
 
 let accumulate func input = 
-    let rec recursiveCall input func curRes =
+    let rec recursiveCall input func accumulatedList =
         match input with
-        | [] -> curRes
-        | h::t ->  recursiveCall t func (func h :: curRes)
+        | [] -> accumulatedList
+        | head::tail ->  recursiveCall tail func (func head :: accumulatedList)
+
     recursiveCall input func []
     |> List.rev
      
